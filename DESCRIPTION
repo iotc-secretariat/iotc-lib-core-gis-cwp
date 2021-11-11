@@ -10,5 +10,5 @@ Encoding: UTF-8
 LazyData: true
 Depends: 
   stringi,
-  iotc.core.utils.misc
+  iotc.core.utils.misc (>= 0.2.0)
 RoxygenNote: 7.1.1
