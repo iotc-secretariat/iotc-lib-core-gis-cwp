@@ -1,7 +1,7 @@
 Package: iotc.core.gis.cwp
 Type: Package
 Title: IOTC core CWP grid system helpers and constants
-Version: 0.2.0
+Version: 0.2.1
 Author: Fabio Fiorellato <fabio.fiorellato@fao.org>
 Maintainer: Fabio Fiorellato <fabio.fiorellato@fao.org>
 Description: Utility methods for CWP regular grids management (with no spatial data attached)
